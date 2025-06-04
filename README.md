@@ -20,7 +20,7 @@ git clone https://github.com/BayLak-ONE/Tool_Ban_WhatsappV1.1.git && cd Tool_Ban
 *************************************************************
 python main.py if you cant start script
 *************************************************************
-*** +6282353636742 --> test number
+*** +628234353636742 --> test number
 *************************************************************
 open new > cd Tool_Ban_WhatsappV1.1 && python main.py
 *************************************************************
