@@ -16,11 +16,13 @@ pip install requests
 *************************************************************
 pip install colorama
 *************************************************************
-git clone https://github.com/tamayana/whats/edit
+git clone https://github.com/tamayana/whats
+*************************************************************
+cd whats
 *************************************************************
 python main.py if you cant start script
 *************************************************************
 *** +6284353636742 --> test number
 *************************************************************
-open new > cd Tool_Ban_WhatsappV1.1 && python main.py
+open new > cd whats && python main.py
 *************************************************************
